@@ -1438,13 +1438,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02819200GUJH4R1H</string>
+			<string>Use [GenSMBIOS] to create your own MLB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>WH9XsrZV</data>
+			<data>ABEiM0RVZnc=</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1452,9 +1452,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WP0KDJHCC</string>
+			<string>Use [GenSMBIOS] to create your own System SN</string>
 			<key>SystemUUID</key>
-			<string>11014336-3B26-4491-B47A-75A0EE3FAF02</string>
+			<string>Use [GenSMBIOS] to create your own UUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
