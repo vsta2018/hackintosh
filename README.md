@@ -14,6 +14,13 @@ Hackintosh on HP Elitebook 840 G6
    - iServices: works with physical ethernet connection, but not with wifi. This is due to the limitation of current AirportItlwm.kext (2.3.0 alpha). Hopefully, the official release will address this issue.
 
 
-Note for using this hack on your machine:
+Notes for using this hack on your machine:
  - At the very least, your machine model should match that of mine: HP Elitebook 840 G6. It is specifically for Whiskey Lake, similar CPU family might work, but I don't have a way to test it!
- - You should ignore my "USBMap.kext" and use "USBInjectAll.kext" for installation, then follow the post-installation guide to create your own "USBMap.kext". DO NOT use it for installation on your machine
+ - You should ignore (i.e.: remove) my "USBMap.kext" and use "USBInjectAll.kext" for installation, then follow the post-installation guide to create your own "USBMap.kext". DO NOT use it for installation on your machine
+ - I have the Real Time Clock (RTC) issue, which fixed by enabling the quirk [DisableRtcChecksum] to true
+
+
+Credits: Thanks to the followings to make this happened
+- Opencore: for Opencore of course
+- Apple: for macOS
+- Dortania: for the guide
