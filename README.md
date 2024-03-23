@@ -18,6 +18,7 @@ Notes for using this hack on your machine:
  - At the very least, your machine model should match that of mine: HP Elitebook 840 G6. It is specifically for Whiskey Lake, similar CPU family might work, but I don't have a way to test it!
  - You should ignore (i.e.: remove) my "USBMap.kext" and use "USBInjectAll.kext" for installation, then follow the post-installation guide to create your own "USBMap.kext". DO NOT use it for installation on your machine
  - I have the Real Time Clock (RTC) issue, which fixed by enabling the quirk [DisableRtcChecksum] to true
+ - It has been upgraded to OC 0.99 and Sonoma 14.3.1 (Attempt to upgrade to Sonoma 14.4 failed!)
 
 
 Credits: Thanks to the followings to make this happened
