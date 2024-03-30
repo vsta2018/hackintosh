@@ -25,3 +25,4 @@ Credits: Thanks to the followings to make this happened
 - Opencore: for Opencore of course
 - Apple: for macOS
 - Dortania: for the guide
+- Referecing this repo https://github.com/yusufklncc/HP-EliteBook-840-G6-Hackintosh/tree/main for additional ACPI content to resolve the "card icon" issue!
